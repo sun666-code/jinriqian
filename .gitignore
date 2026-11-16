@@ -1,0 +1,10 @@
+.DS_Store
+dist/
+mac/build/
+screens/
+build.log
+演示素材/
+演示录制.log
+.commit-queue/
+.reset-once
+.reset-later
